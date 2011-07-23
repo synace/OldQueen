@@ -1,3 +1,3 @@
-[submodule "src/FOSRestBundle"]
-	path = src/FOSRestBundle
+[submodule "vendor/Bundles/FOS/RestBundle"]
+	path = vendor/Bundles/FOS/RestBundle
 	url = https://github.com/FriendsOfSymfony/FOSRestBundle.git
