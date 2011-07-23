@@ -1,0 +1,3 @@
+[submodule "src/FOSRestBundle"]
+	path = src/FOSRestBundle
+	url = https://github.com/FriendsOfSymfony/FOSRestBundle.git
